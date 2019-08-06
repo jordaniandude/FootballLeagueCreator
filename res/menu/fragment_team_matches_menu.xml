@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/save_button"
+      android:icon="@android:drawable/ic_menu_save"
+      android:showAsAction="always"
+      android:title="@string/save"/>
+    
+    <item android:id="@+id/edit_button"
+      android:icon="@android:drawable/ic_menu_edit"
+      android:showAsAction="always"
+      android:title="@string/edit"/>
+
+</menu>
